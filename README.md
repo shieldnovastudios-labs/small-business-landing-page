@@ -7,9 +7,10 @@ for small businesses with Claude Code.
 Plain HTML, CSS and a little vanilla JavaScript. No framework, no build step, no trackers.
 Open `index.html` in a browser and it works, even straight from your file system.
 
-> **Live demo:** GitHub Pages. In the repository go to *Settings → Pages*, set the source to
-> **Deploy from a branch**, branch **main**, folder **/ (root)**, and save. The site appears at
-> `https://<your-user>.github.io/<repo-name>/` within a minute or two.
+> **Live demo:** https://shieldnovastudios-labs.github.io/small-business-landing-page/
+>
+> To host your own copy on GitHub Pages: *Settings → Pages*, source **Deploy from a branch**, branch **main**,
+> folder **/ (root)**. It appears at `https://<your-user>.github.io/<repo-name>/` within a minute or two.
 
 ![Spokewise landing page, desktop view](docs/screenshot.png)
 
