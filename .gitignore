@@ -1,0 +1,11 @@
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Local tooling (none is needed to run the site)
+node_modules/
+.env
+*.log
